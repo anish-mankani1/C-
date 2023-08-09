@@ -1,3 +1,4 @@
+// yeh simple wala jisme private ko public se access kar rahe hai
 #include<iostream>
 using namespace std;
 class  employee

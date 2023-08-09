@@ -1,3 +1,4 @@
+// abstraction hai encapsulation jaisa hai yeh bhi data ko hide  karta hai
 #include<iostream>
 using namespace std;
 class variable

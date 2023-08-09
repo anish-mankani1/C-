@@ -3,12 +3,16 @@ using namespace std;
 class myclass
 {
     public:
-    void mymethod();
+    void mymethod()
+    {
+        cout<<"hello world";
+    }
 };
-void myclass::mymethod()
-{
+/*void myclass::mymethod()
+{                                    // second method hai
     cout<<"hello";
 }
+*/
 int main()
 {
     myclass x;

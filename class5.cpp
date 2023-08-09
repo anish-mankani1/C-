@@ -1,3 +1,5 @@
+// encapsulation yeh data ko hide karne mein use hota hai 
+//hum private ko public ke use access kar sakte hai par class mein function hona chahiye
 #include<iostream>
 using namespace std;
 class employee{
